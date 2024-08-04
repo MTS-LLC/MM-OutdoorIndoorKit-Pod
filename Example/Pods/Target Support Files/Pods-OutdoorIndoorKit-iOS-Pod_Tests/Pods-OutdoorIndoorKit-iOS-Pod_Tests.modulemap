@@ -1,0 +1,6 @@
+framework module Pods_OutdoorIndoorKit_iOS_Pod_Tests {
+  umbrella header "Pods-OutdoorIndoorKit-iOS-Pod_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

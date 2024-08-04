@@ -1,0 +1,16 @@
+PODS:
+  - OutdoorIndoorKit-iOS-Pod (1.2.0)
+
+DEPENDENCIES:
+  - OutdoorIndoorKit-iOS-Pod (from `./../`)
+
+EXTERNAL SOURCES:
+  OutdoorIndoorKit-iOS-Pod:
+    :path: "./../"
+
+SPEC CHECKSUMS:
+  OutdoorIndoorKit-iOS-Pod: 0c61d788669d4e6c0665c8bce6e06241765f2422
+
+PODFILE CHECKSUM: e1ca65470344cce0b9914891f5eacd4a64ed2f68
+
+COCOAPODS: 1.15.2

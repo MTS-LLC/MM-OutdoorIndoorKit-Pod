@@ -1,16 +1,24 @@
 PODS:
-  - OutdoorIndoorKit-iOS-Pod (1.2.0)
+  - JMapiOSSDK (5.12.2)
+  - OutdoorIndoorKit-iOS-Pod (1.2.0):
+    - JMapiOSSDK
 
 DEPENDENCIES:
-  - OutdoorIndoorKit-iOS-Pod (from `./../`)
+  - JMapiOSSDK
+  - OutdoorIndoorKit-iOS-Pod (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - JMapiOSSDK
 
 EXTERNAL SOURCES:
   OutdoorIndoorKit-iOS-Pod:
-    :path: "./../"
+    :path: "../"
 
 SPEC CHECKSUMS:
-  OutdoorIndoorKit-iOS-Pod: 0c61d788669d4e6c0665c8bce6e06241765f2422
+  JMapiOSSDK: bf34de59d69e34890ad8ce9d0f8c269ae8a1b55c
+  OutdoorIndoorKit-iOS-Pod: 0789ba23e4ec2edb7bb11e96f9beebcef8ce6351
 
-PODFILE CHECKSUM: e1ca65470344cce0b9914891f5eacd4a64ed2f68
+PODFILE CHECKSUM: 2a555fb047bd187b02ebec4b01a3d3cd937e426f
 
 COCOAPODS: 1.15.2

@@ -9,7 +9,8 @@ s.version='1.2.0'
   s.author           = { 'mattWillis' => 'matt.willis@minuteman-llc.com' }
   s.source           = { :git => 'https://github.com/MTS-LLC/MM-OutdoorIndoor-iOS-Pod.git', :tag => "#{s.version}" }
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.dependency "JMapiOSSDK"
   s.ios.deployment_target = '10.0'
-  s.platform = :ios, '9.0'
+  s.platform = :ios, '10.0'
   s.vendored_frameworks = 'OutdoorIndoorKit-iOS-Pod/Frameworks/*.xcframework'
 end

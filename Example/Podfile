@@ -1,6 +1,8 @@
 use_frameworks!
+source = 'https://https://github.com/MTS-LLC/JMap-iOS-SDK-Pod.git'
+
 target 'OutdoorIndoorKit-iOS-Pod_Tests' do
-  pod 'OutdoorIndoorKit-iOS-Pod', :path => './../'
-  
+  pod 'JMapiOSSDK'
+  pod 'OutdoorIndoorKit-iOS-Pod', :path => '../'
   
 end

@@ -15,8 +15,13 @@
     "type": "MIT",
     "file": "LICENSE"
   },
+  "dependencies": {
+    "JMapiOSSDK": [
+
+    ]
+  },
   "platforms": {
-    "ios": "9.0"
+    "ios": "10.0"
   },
   "vendored_frameworks": "OutdoorIndoorKit-iOS-Pod/Frameworks/*.xcframework"
 }
